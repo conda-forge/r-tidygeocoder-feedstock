@@ -31,6 +31,7 @@ requirements:
     - r-jsonlite
     - r-lifecycle
     - r-tibble
+    - r-progress
   run:
     - r-base
     - r-dplyr
@@ -38,6 +39,7 @@ requirements:
     - r-jsonlite
     - r-lifecycle
     - r-tibble
+    - r-progress
 
 test:
   commands:
