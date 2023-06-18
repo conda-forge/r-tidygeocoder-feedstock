@@ -1,11 +1,11 @@
-About r-tidygeocoder
-====================
+About r-tidygeocoder-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tidygeocoder-feedstock/blob/main/LICENSE.txt)
 
 Home: https://jessecambon.github.io/tidygeocoder/, https://github.com/jessecambon/tidygeocoder
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tidygeocoder-feedstock/blob/main/LICENSE.txt)
 
 Summary: An intuitive interface for getting data from geocoder services.
 
