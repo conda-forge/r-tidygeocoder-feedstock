@@ -1,4 +1,4 @@
-{% set version = "1.0.5" %}
+{% set version = "1.0.6" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/tidygeocoder_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/tidygeocoder/tidygeocoder_{{ version }}.tar.gz
-  sha256: 6ae2a947107ec605424d9f88b354e0a20ed6309bb9b9a39b9563c75ad444d2b9
+  sha256: 1f2be0e44e3c8d5d90ceadf3fb6bf735f40dd1c82c3d5e7c5ba6f03c332000f5
 
 build:
-  number: 3
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
